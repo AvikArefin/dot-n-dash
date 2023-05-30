@@ -1,16 +1,13 @@
 # dotndash
 
-A new Flutter project.
+A flutter app that can turn text into do and dash i.e. morse code and can show it using the devices dedicated flash.
 
-## Getting Started
+[] Sound to morse code player to be implemented
 
-This project is a starting point for a Flutter application.
+Note: only tested on android at the moment.
 
-A few resources to get you started if this is your first Flutter project:
+# Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Get started by cloning the project: ```git clone https://github.com/AvikArefin/dot-n-dash.git```
+2. Check flutter installed properly ```flutter doctor```
+3. Plug in your android device and run ```flutter run```
