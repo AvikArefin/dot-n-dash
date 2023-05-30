@@ -2,7 +2,7 @@
 
 A flutter app that can turn text into do and dash i.e. morse code and can show it using the devices dedicated flash.
 
-[] Sound to morse code player to be implemented
+[] Morse Code to sound to be implemented
 
 Note: only tested on android at the moment.
 
